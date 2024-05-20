@@ -6,4 +6,4 @@
 
 #### Introdução ao python
 
-- Criando o primeiro programa: [Link](https://www.github.com/desenvolvedoreric/python-onebitcode/1-fundamentos-python/1-aula)
+- Criando o primeiro programa: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/1-aula)
