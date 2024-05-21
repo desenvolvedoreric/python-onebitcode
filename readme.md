@@ -8,6 +8,6 @@
 
 - Criando o primeiro programa: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/1-aula)
 
-- Criando o primeiro programa: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/2-aula)
+- Tipos: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/2-aula)
 
 - Input: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/3-aula)
