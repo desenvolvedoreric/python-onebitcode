@@ -15,3 +15,5 @@
 - Concatenar Valores: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/4-aula)
 
 - Operadores: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/5-aula)
+
+- Exercicio 1: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/1-exercicio)
