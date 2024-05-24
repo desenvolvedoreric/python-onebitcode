@@ -23,3 +23,5 @@
 - Operações String: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/7-aula)
 
 - Slice String: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/8-aula)
+
+- Métodos de string: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/9-aula)
