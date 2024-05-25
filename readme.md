@@ -29,3 +29,5 @@
 - Exercicio 2: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/2-exercicio)
 
 - Listas: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/10-aula)
+
+- Métodos de Lista: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/11-aula)
