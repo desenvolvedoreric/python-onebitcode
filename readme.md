@@ -39,3 +39,5 @@
 - Dicionario: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/14-aula)
 
 - Dicionario Aninhado: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/15-aula)
+
+- Condições If Else: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/16-aula)
