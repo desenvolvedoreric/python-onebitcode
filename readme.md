@@ -31,3 +31,5 @@
 - Listas: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/10-aula)
 
 - Métodos de Lista: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/11-aula)
+
+- Tuplas: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/12-aula)
