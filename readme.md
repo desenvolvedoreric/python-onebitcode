@@ -43,3 +43,5 @@
 - Condições If Else: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/16-aula)
 
 - Condições elif: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/17-aula)
+
+- Exercicio 3: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/3-exercicio)
