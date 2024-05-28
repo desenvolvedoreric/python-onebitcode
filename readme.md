@@ -47,3 +47,5 @@
 - Exercicio 3: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/3-exercicio)
 
 - For Loop: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/18-aula)
+
+- While Loop: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/19-aula)
