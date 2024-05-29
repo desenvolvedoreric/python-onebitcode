@@ -51,3 +51,5 @@
 - While Loop: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/19-aula)
 
 - List Comprehension: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/20-aula)
+
+- Exercicio 4: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/4-exercicio)
