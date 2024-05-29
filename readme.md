@@ -49,3 +49,5 @@
 - For Loop: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/18-aula)
 
 - While Loop: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/19-aula)
+
+- List Comprehension: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/20-aula)
