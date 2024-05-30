@@ -57,3 +57,5 @@
 - Utilizando Funções: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/21-aula)
 
 - Argumentos De Função: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/22-aula)
+
+- Função Recursiva: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/23-aula)
