@@ -63,3 +63,5 @@
 - Função Args e Kwargs: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/24-aula)
 
 - Função Lambda: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/25-aula)
+
+- Exericio 5: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/5-exercicio)
