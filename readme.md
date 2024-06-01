@@ -65,3 +65,5 @@
 - Função Lambda: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/25-aula)
 
 - Exericio 5: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/5-exercicio)
+
+- Exericio final 6: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/6-exercicio)
