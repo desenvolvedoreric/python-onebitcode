@@ -67,3 +67,7 @@
 - Exericio 5: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/5-exercicio)
 
 - Exericio final 6: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/1-fundamentos-python/6-exercicio)
+
+#### Módulos e Pip
+
+- Primeiro módulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/1-aula)
