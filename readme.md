@@ -71,3 +71,5 @@
 #### Módulos e Pip
 
 - Primeiro módulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/1-aula)
+
+- Exercicio: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/1-exercicio)
