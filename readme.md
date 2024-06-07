@@ -85,3 +85,5 @@
 - Statistics modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/5-aula)
 
 - Regx re modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/6-aula)
+
+- Exercicio 3: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/3-exercicio)
