@@ -91,3 +91,5 @@
 - Hashlib modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/7-aula)
 
 - Json modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/8-aula)
+
+- Collections modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/9-aula)
