@@ -93,3 +93,5 @@
 - Json modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/8-aula)
 
 - Collections modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/9-aula)
+
+- Random modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/9-aula)
