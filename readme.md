@@ -94,6 +94,6 @@
 
 - Collections modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/9-aula)
 
-- Random modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/9-aula)
+- Random modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/10-aula)
 
 - Exercicio 4: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/4-exercicio)
