@@ -89,3 +89,5 @@
 - Exercicio 3: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/3-exercicio)
 
 - Hashlib modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/7-aula)
+
+- Json modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/8-aula)
