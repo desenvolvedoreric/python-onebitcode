@@ -103,3 +103,4 @@
 #### POO
 
 - Primeira classe: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/1-aula)
+- Instânciando a classe: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/2-aula)
