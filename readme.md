@@ -99,3 +99,7 @@
 - Exercicio 4: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/4-exercicio)
 
 - Tkinter modulo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/2-modulos-python/11-aula)
+
+#### POO
+
+- Primeira classe: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/1-aula)
