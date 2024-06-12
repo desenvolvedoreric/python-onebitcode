@@ -107,3 +107,5 @@
 - Instânciando a classe: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/2-aula)
 
 - Construtor: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/3-aula)
+
+- Métodos: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/4-aula)
