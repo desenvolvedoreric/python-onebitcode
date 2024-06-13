@@ -111,3 +111,5 @@
 - Métodos: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/4-aula)
 
 - Exercicio 1: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/1-exercicio)
+
+- Exercicio 2: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/2-exercicio)
