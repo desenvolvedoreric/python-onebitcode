@@ -115,3 +115,5 @@
 - Exercicio 2: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/2-exercicio)
 
 - Váriavel de classe: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/5-aula)
+
+- Métodos de classe: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/6-aula)
