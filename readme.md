@@ -121,3 +121,5 @@
 - Métodos staticos: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/7-aula)
 
 - Encapsulamento: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/8-aula)
+
+- Getter e Setter: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/9-aula)
