@@ -119,3 +119,5 @@
 - Métodos de classe: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/6-aula)
 
 - Métodos staticos: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/7-aula)
+
+- Encapsulamento: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/8-aula)
