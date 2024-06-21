@@ -125,3 +125,5 @@
 - Getter e Setter: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/9-aula)
 
 - Herança: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/10-aula)
+
+- Super: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/11-aula)
