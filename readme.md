@@ -131,3 +131,5 @@
 - Polimorfismo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/12-aula)
 
 - Composição: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/13-aula)
+
+- Exercicio 3: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/3-exercicio)
