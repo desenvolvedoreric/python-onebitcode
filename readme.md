@@ -139,3 +139,7 @@
 - Decorator Property: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/15-aula)
 
 - Exercicio 4: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/4-exercicio)
+
+#### Arquivos
+
+- Escrevendo em um arquivo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/1-aula)
