@@ -1,4 +1,4 @@
-from decorator import my_decorator, uppercase_decorator, split_string
+from decorators import my_decorator, uppercase_decorator, split_string
 
 # Exemplo 1 - 
 @my_decorator
