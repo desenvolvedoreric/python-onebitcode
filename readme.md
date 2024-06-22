@@ -135,3 +135,5 @@
 - Exercicio 3: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/3-exercicio)
 
 - Decorators: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/14-aula)
+
+- Decorator Property: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/3-poo-python/15-aula)
