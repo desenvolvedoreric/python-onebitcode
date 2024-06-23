@@ -145,3 +145,5 @@
 - Escrevendo em um arquivo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/1-aula)
 
 - Lendo dados de um arquivo: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/2-aula)
+
+- Ordenando valores: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/3-aula)
