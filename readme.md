@@ -151,3 +151,5 @@
 - Exercicio 1: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/1-exercicio)
 
 - Lendo CSV: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/4-aula)
+
+- Ordenando CSV: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/5-aula)
