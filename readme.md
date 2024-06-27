@@ -157,3 +157,5 @@
 - Transformando CSV em dicionário: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/6-aula)
 
 - Ordenando valores dicionário: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/7-aula)
+
+- Ordenando com função lambda: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/8-aula)
