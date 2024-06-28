@@ -159,3 +159,5 @@
 - Ordenando valores dicionário: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/7-aula)
 
 - Ordenando com função lambda: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/8-aula)
+
+- Usando modulo CSV: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/9-aula)
