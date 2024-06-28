@@ -161,3 +161,5 @@
 - Ordenando com função lambda: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/8-aula)
 
 - Usando modulo CSV: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/9-aula)
+
+- Escrevendo um arquivo CSV: [Link](https://github.com/desenvolvedoreric/python-onebitcode/tree/master/4-arquivos-python/10-aula)
